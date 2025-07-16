@@ -1,1 +1,8 @@
+title: Abhishek Das
+description: My personal website
+url: "https://abhishekdas.github.io"
+baseurl: ""
 
+# Build settings
+markdown: kramdown
+theme: minima
